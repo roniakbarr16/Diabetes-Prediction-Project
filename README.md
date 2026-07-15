@@ -91,7 +91,7 @@ streamlit run app/streamlit_app.py
 
 ### Deployment
 Aplikasi telah di-deploy di Streamlit Cloud:  
-🔗 **[Diabetes Prediction App](https://diabetes-prediction-app.streamlit.app/)**
+🔗 **[Diabetes Prediction App](https://diabetes-prediction-project-machine-learning.streamlit.app/)**
 
 ---
 
